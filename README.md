@@ -1,10 +1,12 @@
 # About Me
 
-Engineer, open-sourcer, and ride-or-die no-code advocate. Based in the Netherlands, I am a no-code developer with a passion for transforming products worldwide and simplifying complexity. I build tools, launch products, and collaborate on innovations that make a difference, one idea at a time.
+Software engineer, no-code nerd, teacher, and always ready to try something new. Based in the Netherlands, I'm a no-code advocate who loves building tools and launching products that make a difference. Whether I'm coding, mentoring, or experimenting, I aim to keep things simple and impactful. I'm a big fan of breaking down complex problems into straightforward solutions—one idea at a time.
+
+I'm also pretty handy with Git; you could say I'm a surgeon when it comes to a good rebase.
 
 ## My Work in the Community
 
-I build and maintain plugins that enhance the no-code Bubble ecosystem, helping developers extend their capabilities and create more versatile applications. I also consult with startups to help turn ideas into MVPs, providing guidance on how to effectively use no-code to meet business goals.
+I build and maintain plugins that expand the no-code Bubble ecosystem, helping other developers create more versatile applications. I also consult with startups to turn ideas into MVPs, offering guidance on effectively using no-code to meet business goals.
 
 ## How Your Sponsorship Can Make a Difference
 
@@ -21,3 +23,4 @@ All information shared with me is confidential and treated with respect. Let’s
 ### Get a Quote
 
 If you'd like a quote for a project, please reach out to our company at [info@nocodeventure.com](mailto:info@nocodeventure.com).
+
