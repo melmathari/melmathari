@@ -12,6 +12,8 @@ I build and maintain plugins that expand the no-code Bubble ecosystem, helping o
 
 ## How Your Sponsorship Can Make a Difference
 
+<a href="https://www.buymeacoffee.com/melmathari"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🐼&slug=melmathari&button_colour=100f0f&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
 By becoming a sponsor, you're helping make technology accessible to those who need it most. Here's how your support can directly contribute to this mission:
 
 - **Accelerate Development**: Allow me to focus more on research, development, and pushing the boundaries of no-code technology.
